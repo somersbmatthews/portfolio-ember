@@ -33,6 +33,7 @@
     "ember-cli-sri": "^2.1.1",
     "ember-cli-uglify": "^3.0.0",
     "ember-data": "~3.13.0",
+    "ember-engines": "^0.8.2",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^2.0.0",
     "ember-maybe-import-regenerator": "^0.1.6",
@@ -44,9 +45,9 @@
     "eslint": "^6.1.0",
     "eslint-plugin-ember": "^7.1.0",
     "eslint-plugin-node": "^10.0.0",
+    "gsap": "git:github.com/somersbmatthews/gsap-full-uncompressed.git",
     "loader.js": "^4.7.0",
-    "qunit-dom": "^0.9.0",
-    "gsap": "git:github.com/somersbmatthews/gsap-full-uncompressed.git"
+    "qunit-dom": "^0.9.0"
   },
   "engines": {
     "node": "8.* || >= 10.*"
